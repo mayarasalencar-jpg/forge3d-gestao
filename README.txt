@@ -1,0 +1,1 @@
+Forge3D Gestão: index.html é o app. Execute supabase-schema.sql no SQL Editor do Supabase. Configure Project URL e publishable key no primeiro acesso. Crie os dois usuários no Authentication. Nunca use service_role no navegador.
